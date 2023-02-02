@@ -210,9 +210,9 @@
             // maskedTextBox1
             // 
             this.maskedTextBox1.Location = new System.Drawing.Point(452, 444);
-            this.maskedTextBox1.Mask = "000";
+            this.maskedTextBox1.Mask = "00000";
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(22, 23);
+            this.maskedTextBox1.Size = new System.Drawing.Size(40, 23);
             this.maskedTextBox1.TabIndex = 2;
             // 
             // label6

@@ -8,8 +8,8 @@ namespace ValidadordeCPFdoRicardo
 {
     public class CPF
     {
-        public string? Numero { get; set; }
-        public string? DbCPF { get; set; }
+      //  public string? Numero { get; set; }
+      //  public string? DbCPF { get; set; }
 
         //validar o cpf
 
